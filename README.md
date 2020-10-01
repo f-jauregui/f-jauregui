@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/f-jauregui/f-jauregui/blob/master/dinoff.gif)
 
 <!--
 **f-jauregui/f-jauregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
